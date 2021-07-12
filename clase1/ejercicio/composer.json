@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ramsey/uuid": "^4.1",
+        "fzaninotto/faker": "^1.5"
+    }
+}
