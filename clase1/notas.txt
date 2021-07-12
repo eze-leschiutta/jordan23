@@ -1,0 +1,55 @@
+----------------------------------------------------------------------
+Clase #1 Api Web Service
+----------------------------------------------------------------------
+
+En los 90 - un php que era un procesador de texto con steroides.
+            Pagina web dinamica intermezclando HTML y <?php ?>
+
+En los 2000 - Joomla. Controller al final require('html')
+              Solo texto pero se le intercalaban variables
+
+En los 2003 - REST - AJAX (Asyncronous javascript and XML)
+
+En los 2010 - Frameworks que intentan MVC
+
+----------------------------------------------------------------------
+
+Cliente (Browser o App) -------------------------------------> Server
+                                                              Proveer
+                                                              datos y 
+                                                              logica
+
+Server side rendering - Prepara todo el html y lo retorna al browser
+
+Client side rendering - Pide los datos al servidor y los renderiza 
+utilizando javascript.
+
+Client side rendering frameworks React, Angular, Vanilla javascript
+con webpack.
+
+----------------------------------------------------------------------
+Rest sobre HTTP
+
+HTTP Verbos o Metodos
+
+GET          2 variantes
+POST         1 variante
+PUT          1 variante
+DELETE       1 variante
+
+HTTP Contiene 2 partes
+
+Headers
+Saldo de linea
+Body
+
+
+
+
+ 
+
+
+
+
+
+
