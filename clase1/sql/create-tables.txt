@@ -1,0 +1,11 @@
+CREATE TABLE `jordan23`.`personas` (
+  `id` VARCHAR(36) NOT NULL ,
+  `name` VARCHAR(100) NOT NULL ,
+  `streetName` VARCHAR(100) NOT NULL ,
+   `buildingNumber` INT NOT NULL ,
+   `city` VARCHAR(50) NOT NULL ,
+   `postcode` VARCHAR(50) NOT NULL ,
+   `state` VARCHAR(50) NOT NULL ,
+   `country` VARCHAR(50) NOT NULL )
+ENGINE = InnoDB;
+
